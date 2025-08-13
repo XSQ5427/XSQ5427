@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m XSQ5427!
+# 👋 Hi there, I’m Doris!
 
 🎓 **Student**  
 💻 **Skills:** Python  
